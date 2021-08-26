@@ -1,4 +1,4 @@
-var path = require('path');
+var path = require('path'); //  node.js의 모듈문법
 
 module.exports = {
   mode: 'none',
